@@ -8,7 +8,7 @@ This repository is a collection of small game projects, playable experiments, an
 
 It is used as a shared home for lightweight projects that may stay as prototypes or grow into larger games later.
 
-link : [Game Collection](https://Minho709.github.io/Game)
+link : [Game Collection](https://pickzeul.github.io/Game/)
 
 ### Current Projects
 
